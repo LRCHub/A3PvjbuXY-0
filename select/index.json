@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "The Perfect Kiss",
+  "base_artist": "New Order",
+  "createdAt": "2026-03-25T03:29:53.869814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Perfect Kiss",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/01_The_Perfect_Kiss_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Perfect Kiss (7\" Edit)",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/02_The_Perfect_Kiss_(7__Edit)_New_Order.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Perfect Kiss (US 7\" Edit)",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/03_The_Perfect_Kiss_(US_7__Edit)_New_Order.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Perfect Kiss",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/04_The_Perfect_Kiss_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Perfect Kiss - (7'' Edit) [2015 Remastered Version]",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/05_The_Perfect_Kiss_-_(7''_Edit)_[2015_Remastered_Version]_New_Order.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Perfect Kiss",
+      "artist": "Bette Midler",
+      "has_synced": true,
+      "path": "select/06_The_Perfect_Kiss_Bette_Midler.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Perfect Kiss",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/07_The_Perfect_Kiss_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Perfect Kiss (2015 Remaster)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/08_The_Perfect_Kiss_(2015_Remaster)_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Perfect Kiss",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/09_The_Perfect_Kiss_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Perfect Kiss (7'' Edit) [2015 Remastered Version]",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/10_The_Perfect_Kiss_(7''_Edit)_[2015_Remastered_Version]_New_Order.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Perfect Kiss",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/11_The_Perfect_Kiss_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Perfect Kiss",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/12_The_Perfect_Kiss_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Perfect Kiss",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/13_The_Perfect_Kiss_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Perfect Kiss - Live at Alexandra Palace",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/14_The_Perfect_Kiss_-_Live_at_Alexandra_Palace_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Perfect Crime",
+      "artist": "The Lucksmiths",
+      "has_synced": false,
+      "path": "select/15_The_Perfect_Crime_The_Lucksmiths.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Perfect Life",
+      "artist": "Moby feat. Wayne Coyne",
+      "has_synced": true,
+      "path": "select/16_The_Perfect_Life_Moby_feat._Wayne_Coyne.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Perfect Life (feat. Wayne Coyne)",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/17_The_Perfect_Life_(feat._Wayne_Coyne)_Moby.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Perfect Life (with Wayne Coyne) - Fuck Buttons Remix",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/18_The_Perfect_Life_(with_Wayne_Coyne)_-_Fuck_Buttons_Remix_Moby.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Perfect Life (feat. Wayne Coyne) (Fuck Buttons Remix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/19_The_Perfect_Life_(feat._Wayne_Coyne)_(Fuck_Buttons_Remix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Perfect Drug",
+      "artist": "Nine Inch Nails",
+      "has_synced": false,
+      "path": "select/20_The_Perfect_Drug_Nine_Inch_Nails.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Perfect Drug (Spacetime Continuum)",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/21_The_Perfect_Drug_(Spacetime_Continuum)_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Looking for the Perfect Beat",
+      "artist": "Afrika Bambaataa & Soulsonic Force",
+      "has_synced": true,
+      "path": "select/22_Looking_for_the_Perfect_Beat_Afrika_Bambaataa_&_Soulsonic_Force.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Looking For The Perfect Beat",
+      "artist": "Afrika Bambaataa & The Soulsonic Force",
+      "has_synced": true,
+      "path": "select/23_Looking_For_The_Perfect_Beat_Afrika_Bambaataa_&_The_Soulsonic_Force.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "The Perfect Boy",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/24_The_Perfect_Boy_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "The Perfect Girl",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/25_The_Perfect_Girl_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "The Perfect Crime #2",
+      "artist": "The Decemberists",
+      "has_synced": true,
+      "path": "select/26_The_Perfect_Crime__2_The_Decemberists.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "The Perfect Fit",
+      "artist": "The Dresden Dolls",
+      "has_synced": true,
+      "path": "select/27_The_Perfect_Fit_The_Dresden_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "The Perfect Me",
+      "artist": "Deerhoof",
+      "has_synced": true,
+      "path": "select/28_The_Perfect_Me_Deerhoof.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "The Perfect Goodbye",
+      "artist": "Heart",
+      "has_synced": false,
+      "path": "select/29_The_Perfect_Goodbye_Heart.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Perfect Kiss",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/pl_01_The_Perfect_Kiss_New_Order.txt"
+    }
+  ]
+}
